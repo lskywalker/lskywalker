@@ -2,6 +2,7 @@ Hi there 👋
 I'm a student at Codam Coding College based in Amsterdam, Netherlands.
 
 BIO
+
 🏢 I'm currently working at Brasserie Lolita, Amsterdam;
 
 ⚙️  The project I am currently working on: Philosophers;
@@ -15,4 +16,5 @@ BIO
 📫 Reach me: 
 
 LINKEDIN: www.linkedin.com/in/luke--smit;
+
 INSTAGRAM: https://www.instagram.com/lukev_s/
