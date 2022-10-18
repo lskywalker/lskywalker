@@ -5,7 +5,7 @@ BIO
 
 🏢 I'm currently working at Brasserie Lolita, Amsterdam;
 
-⚙️  The project I am currently working on: Philosophers;
+⚙️  The project I am currently working on: Webserv;
 
 🌍 I'm mostly active within the 42 network;
 
