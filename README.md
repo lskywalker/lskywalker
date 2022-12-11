@@ -9,7 +9,7 @@ BIO
 
 🌍 I'm mostly active within the 42 network;
 
-🌱 I've learned mostly C and C++ and I am currently learning Python;
+🌱 I've learned mostly C and C++, but I am currently learning Python;
 
 ⚡️ Fun fact: I'm a fulltime gymrat;
 
