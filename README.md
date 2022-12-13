@@ -5,11 +5,11 @@ BIO
 
 🏢 I'm currently working at Brasserie Lolita, Amsterdam;
 
-⚙️  The project I am currently working on: Advent Of Code 2022 in Python;
+⚙️  The project I am currently working on: Transcendence;
 
 🌍 I'm mostly active within the 42 network;
 
-🌱 I've learned mostly C and C++, but I am currently learning Python;
+🌱 I've learned mostly C and C++, but I am currently learning more C++;
 
 ⚡️ Fun fact: I'm a fulltime gymrat;
 
