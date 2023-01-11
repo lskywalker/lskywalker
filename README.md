@@ -9,11 +9,11 @@ BIO
 
 🌍 I'm mostly active within the 42 network;
 
-🌱 I've learned mostly C and C++, but I am currently learning more C++;
+🌱 I've learned mostly C and C++, but I am currently learning Javascript and Typescript;
 
 ⚡️ Fun fact: I'm a fulltime gymrat;
 
-📫 Reach me: 
+📫 Reach me:
 
 LINKEDIN: www.linkedin.com/in/luke--smit;
 
