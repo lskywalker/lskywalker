@@ -1,5 +1,5 @@
 # <p align="center"> Hi there 👋 </p>
-<h1 align = "center"> ![Luke's banner](https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif) </h1>
+![Luke's banner](https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif)
 
 ---
 
