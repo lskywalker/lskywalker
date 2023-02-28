@@ -9,6 +9,9 @@
 <h3 align = "center">
 
   All my school projects can be found [here](https://github.com/lskywalker?tab=repositories) 👈🏻
+  
+  My favorite project?
+  [Cub3D](https://github.com/lskywalker/cub3D) 👈🏻
 
 <h3>
 
@@ -37,7 +40,7 @@
 
 ---
 
-## <p align="center"> 📈 github Stats</p>
+## <p align="center"> 📈 Github Stats</p>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=lskywalker&show_icons=true&theme=dark">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lskywalker&show_icons=true&locale=en&theme=dark" />
