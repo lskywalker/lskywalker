@@ -1,7 +1,8 @@
-# <p align="center" style="margin-top: 0px;">
-![Luke's banner](https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif)
+<h2 align = "center">Hi There! 👋</h2>
+
+<p align="center" style="margin-top: 0px;">
+<img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif"/>
 </p>
----
 
 <h1 align = "center"> 🧑‍🎓 School projects </h1>
 
@@ -18,7 +19,8 @@
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -28,7 +30,7 @@
 <div align = center>
 
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke--smit/)
-  [![Hotmail](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:lukevsmit@hotmail.com)
+  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lukevsmit@hotmail.com)
 
 </div>
 
