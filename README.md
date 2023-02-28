@@ -1,4 +1,4 @@
-# <p align="center"> Hi there 👋
+# <p align="center" style="margin-top: 0px;">
 ![Luke's banner](https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif)
 </p>
 ---
