@@ -30,7 +30,8 @@
 <div align = center>
 
   [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke--smit/)
-  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lukevsmit@hotmail.com)
+  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lukevsmit@hotmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lukev_s/)
 
 </div>
 
@@ -38,10 +39,10 @@
 
 ## <p align="center"> 📈 github Stats</p>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=K1ngmar&show_icons=true&theme=dark">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=K1ngmar&show_icons=true&locale=en&theme=dark" />
+  <img  src = "https://github-readme-stats.vercel.app/api?username=lskywalker&show_icons=true&theme=dark">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lskywalker&show_icons=true&locale=en&theme=dark" />
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=K1ngmar&bg_color=151515&color=FFF&line=9e9e9e&hide_title=true">
+ <img src="https://activity-graph.herokuapp.com/graph?username=lskywalker&bg_color=151515&color=FFF&line=9e9e9e&hide_title=true">
 </p>
