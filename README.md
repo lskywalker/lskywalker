@@ -42,7 +42,3 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=lskywalker&show_icons=true&theme=dark">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lskywalker&show_icons=true&locale=en&theme=dark" />
 </p>
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=lskywalker&bg_color=151515&color=FFF&line=9e9e9e&hide_title=true">
-</p>
