@@ -1,6 +1,6 @@
-# <p align="center"> Hi there 👋 </p>
+# <p align="center"> Hi there 👋
 ![Luke's banner](https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif)
-
+</p>
 ---
 
 <h1 align = "center"> 🧑‍🎓 School projects </h1>
