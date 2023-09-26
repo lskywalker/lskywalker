@@ -12,9 +12,6 @@
   
   My favorite project?
   [Cub3D](https://github.com/lskywalker/cub3D) 👈🏻
-  
-  Curious of my resume?
-  [Resume](https://github.com/lskywalker/lskywalker/blob/main/Luke%20Smit%20CV%20Student.pdf) 👈🏻
 
 <h3>
 
