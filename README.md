@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  Software developer based in Amsterdam · Codam Coding College
-</p>
+  
+Hey, I’m Luke 👋 I’m based in Amsterdam and studied software development at Codam. I built a bunch of stuff there, including a shell, a web server, a Doom3D replica and a multiplayer Pong app.
 
-<p align="center">
-  I like building things that let me see how they work under the hood, from a shell and an HTTP server to a raycasting game. During my internship at Nualis / Nuadata, I built a cybersecurity self-assessment app for small businesses.
+I’m also into cybersecurity, especially hunting for vulnerabilities. I like trying to get into the head of whoever built something. What did they assume nobody would try? What’s the one thing they might’ve forgotten to check? That’s usually the fun part for me. I’ll hit a wall in a Hack The Box lab, go back to something I dismissed ten minutes ago, and realise I looked at it all wrong.
+
 </p>
 
 ---
@@ -19,9 +19,10 @@
 | Project | What I built |
 | --- | --- |
 | ⭐ [**Cub3D**](https://github.com/lskywalker/cub3D) | My favourite Codam project. A raycasting game with textures, sprites and animations. |
-| **minishell** | A Bash-style shell written in C with support for pipes and input/output redirection. |
-| **webserv** | An HTTP/1.1 server written in C++ using TCP sockets, with support for chunked transfer encoding and Python CGI. |
-| **transcendence** | A multiplayer Pong and chat app built with TypeScript, NestJS and Prisma, with OAuth authentication. |
+| **[minishell](https://github.com/lskywalker/minishell)** | A Bash-style shell written in C with support for pipes and input/output redirection. |
+| **[webserv](https://github.com/lskywalker/webserv)** | An HTTP/1.1 server written in C++ using TCP sockets, with support for chunked transfer encoding and Python CGI. |
+| **[transcendence](https://github.com/lskywalker/ft_transcendence)** | A multiplayer Pong and chat app built with TypeScript, NestJS and Prisma, with OAuth authentication. |
+| **[SecurityWebApp](https://github.com/lskywalker/SecurityQWebApp)** | A Zero Trust self-assessment app I built during my internship. It helps small businesses spot gaps in how they manage access, from MFA to privileged accounts, and gives them practical next steps. |
 
 [Browse all my repositories →](https://github.com/lskywalker?tab=repositories)
 
@@ -38,12 +39,6 @@
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lskywalker&amp;show_icons=true&amp;theme=dark" alt="Luke's GitHub stats" />
 </p>
 
 ## 🤙 Find me here
