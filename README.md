@@ -1,47 +1,55 @@
-<h2 align = "center">Hi There! 👋</h2>
+<h1 align="center">Hi, I'm Luke 👋</h1>
 
-<p align="center" style="margin-top: 0px;">
-<img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" alt="Code A Yoda" width="360" />
 </p>
 
-<h1 align = "center"> 🧑‍🎓 School projects </h1>
+<p align="center">
+  Software developer based in Amsterdam · Codam Coding College
+</p>
 
-<h3 align = "center">
-
-  All my school projects can be found [here](https://github.com/lskywalker?tab=repositories) 👈🏻
-  
-  My favorite project?
-  [Cub3D](https://github.com/lskywalker/cub3D) 👈🏻
-
-<h3>
+<p align="center">
+  I like building things that let me see how they work under the hood, from a shell and an HTTP server to a raycasting game. During my internship at Nualis / Nuadata, I built a cybersecurity self-assessment app for small businesses.
+</p>
 
 ---
 
-## <p align = "center"> ✔️ Languages and technologies </p>
-<div align = "center">
+## 🛠️ Projects
 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-  ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+| Project | What I built |
+| --- | --- |
+| ⭐ [**Cub3D**](https://github.com/lskywalker/cub3D) | My favourite Codam project. A raycasting game with textures, sprites and animations. |
+| **minishell** | A Bash-style shell written in C with support for pipes and input/output redirection. |
+| **webserv** | An HTTP/1.1 server written in C++ using TCP sockets, with support for chunked transfer encoding and Python CGI. |
+| **transcendence** | A multiplayer Pong and chat app built with TypeScript, NestJS and Prisma, with OAuth authentication. |
 
-</div>
+[Browse all my repositories →](https://github.com/lskywalker?tab=repositories)
 
-## <p align = "center"> 🤙  You can reach me here </p>
-<div align = center>
+## 🎨 Languages & tools
 
-  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke--smit/)
-  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lukevsmit@hotmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lukev_s/)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-</div>
+## 📈 GitHub stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lskywalker&amp;show_icons=true&amp;theme=dark" alt="Luke's GitHub stats" />
+</p>
 
-## <p align="center"> 📈 Github Stats</p>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=lskywalker&show_icons=true&theme=dark">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lskywalker&show_icons=true&locale=en&theme=dark" />
+## 🤙 Find me here
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luke--smit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:lukevsmit@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.instagram.com/lukev_s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
 </p>
